@@ -1,17 +1,9 @@
 {
   "items": [
     {
-      "key": "home1",
+      "key": "home",
       "label": "首页",
       "label_i18n": { "zh-CN": "首页", "en-US": "Home" },
-      "path": "/embed/home1",
-      "single": true,
-      "embed": "https://www.google.com/"
-    },
-    {
-      "key": "home",
-      "label": "简介示例",
-      "label_i18n": { "zh-CN": "简介示例", "en-US": "Intro" },
       "path": "/",
       "single": true
     },

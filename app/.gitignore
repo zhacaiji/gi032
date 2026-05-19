@@ -46,3 +46,7 @@ install.log
 apps/web/public/user-data/*
 !apps/web/public/user-data/README.md
 !apps/web/public/user-data/_examples/
+
+# 用户自定义首页 SFC（详见 apps/web/CUSTOM-HOME.md）
+# 只跟踪 .example.vue 模板；用户拷出来的 HomeCustom.vue 不进 git。
+apps/web/app/components/home/HomeCustom.vue
